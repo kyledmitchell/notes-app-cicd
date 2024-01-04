@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: notes-app-deployment
-        image: kyledmitchell/notes-app
+        image: kyledmitchell/notes-app2
         resources:
           requests:
             cpu: "100m"
